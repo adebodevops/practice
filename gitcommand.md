@@ -3,7 +3,7 @@
 
 
     #  checking exist keys
-    adeboodunsi@Adebos-Macbook-Air learngit % ls -al ~/.ssh   ##To check if i have an active ssh key
+    adeboodunsi@Adebos-Macbook-Air learngit % ls -al ~/.ssh   ##To check if i have an active key
     total 16
     drwx------   4 adeboodunsi  staff   128  8 Sep  2022 .
     drwxr-xr-x+ 39 adeboodunsi  staff  1248 25 Mar 14:03 ..
